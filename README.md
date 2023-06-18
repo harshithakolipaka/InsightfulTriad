@@ -42,6 +42,7 @@ Steps to run a Streamlit application and predict the output.
 1.Change the location of the pickle file path present in the code to the path of your downloaded pickle file.
 
 
+
 2.Execute the following command in your command prompt: 
 streamlit run "Your Filename".py 
 
