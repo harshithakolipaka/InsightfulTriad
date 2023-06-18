@@ -39,7 +39,9 @@ Note: The python notebooks Splitting the dataset is for model building purpose a
 Steps to run a Streamlit application and predict the output.
 
 1.Change the location of the pickle file path present in the code to the path of your downloaded pickle file.
+
+
 2.Execute the following command in your command prompt: 
-- streamlit run "Your Filename".py 
+streamlit run "Your Filename".py 
 3. Enter the input features 
 4. Click on submit button. Vola!! You can now see if the details are fraudulent or legitimate.
