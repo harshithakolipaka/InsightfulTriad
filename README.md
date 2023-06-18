@@ -19,6 +19,7 @@ DATASET -->
 Training.csv: Used to train the JoinTheIdeaSprint2.0_Main.ipynb file
 Output.csv: Used to test it using testing.ipynb
 
+Link : https://drive.google.com/file/d/1fN-z4ACfiX89kbr2oisXLBJh7N3MjOP7/view?usp=sharing 
 
 MODEL EXECUTION -->
 
@@ -43,5 +44,9 @@ Steps to run a Streamlit application and predict the output.
 
 2.Execute the following command in your command prompt: 
 streamlit run "Your Filename".py 
-3. Enter the input features 
+
+
+3. Enter the input features
+
+  
 4. Click on submit button. Vola!! You can now see if the details are fraudulent or legitimate.
